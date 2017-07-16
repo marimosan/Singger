@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'singger/command'
+Singger::Command.run ARGV

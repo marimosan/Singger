@@ -1,0 +1,1 @@
+require "singger/rails/engine"
